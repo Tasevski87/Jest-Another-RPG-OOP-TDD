@@ -1,0 +1,25 @@
+{
+  "name": "jest-another-rpg-oop-tdd",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest" 
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tasevski87/Jest-Another-RPG-OOP-TDD.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tasevski87/Jest-Another-RPG-OOP-TDD/issues"
+  },
+  "homepage": "https://github.com/Tasevski87/Jest-Another-RPG-OOP-TDD#readme",
+  "dependencies": {
+    "ds-store": "^0.1.6"
+  },
+  "devDependencies": {
+    "jest": "^27.4.5"
+  }
+}
