@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "jest" 
+    "test": "jest"
   },
   "repository": {
     "type": "git",
@@ -17,7 +17,8 @@
   },
   "homepage": "https://github.com/Tasevski87/Jest-Another-RPG-OOP-TDD#readme",
   "dependencies": {
-    "ds-store": "^0.1.6"
+    "ds-store": "^0.1.6",
+    "inquirer": "^8.2.0"
   },
   "devDependencies": {
     "jest": "^27.4.5"
